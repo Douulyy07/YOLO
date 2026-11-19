@@ -1,6 +1,6 @@
 # Compte rendu · TP2 : tester, sécuriser et appeler l'API MaintAI
 
-**Groupe :** …  ·  **Membres :** Douaa Ahmito, …  ·  **Date :** 06/11/2026
+**Groupe :** …  ·  **Membres :** Mohamed Nacer Jouraai, …  ·  **Date :** 06/11/2026
 
 > Remplissez chaque partie dans ce fichier, puis rendez-le avec la pull request du TP2.
 > Collez les sorties du terminal entre les lignes ``` (trois accents graves).
